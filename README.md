@@ -3,7 +3,7 @@ Uber Rides Data Dashboard
 
 This Power BI dashboard presents an analytical overview of Uber ride data, offering interactive visualizations and actionable insights to better understand ride trends, demand patterns, and performance metrics.
 
-Key Features:
+# Key Features:
 
 Dynamic Time Filters: Easily explore ride activity across specific dates and time ranges.
 
@@ -17,7 +17,7 @@ Category Analysis: Breakdown by ride types (e.g., UberX, UberPool) for more focu
 
 User-Driven Filters: Interactive slicers for city, ride type, and time-based filtering.
 
-Technologies Used:
+# Technologies Used:
 
 Power BI: For data visualization and interactive dashboard design.
 
@@ -25,7 +25,7 @@ SQL: For data extraction, cleaning, and transformation prior to Power BI integra
 
 Power Query & DAX: Used for data modeling and advanced measures.
 
-Use Cases:
+# Use Cases:
 
 Business intelligence for ride-sharing analytics
 
