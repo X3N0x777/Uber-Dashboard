@@ -25,7 +25,7 @@ SQL: For data extraction, cleaning, and transformation prior to Power BI integra
 
 Power Query & DAX: Used for data modeling and advanced measures.
 
-Excel: Assisted in initial data cleaning, exploratory analysis, and merging supplementary datasets.
+Excel/Google Sheets: Assisted in initial data cleaning, exploratory analysis, and merging supplementary datasets.
 
 ChatGPT: Utilized for ideation, metric design, content generation, and dashboard documentation.
 
