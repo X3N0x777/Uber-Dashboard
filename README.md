@@ -43,9 +43,10 @@ oard
 # Screenshots of the Dashboard
 ![Overall](https://github.com/user-attachments/assets/6400eb32-c5da-41ad-b20e-49d62e303c69)
 ![Vehi![Revenue](https://github.com/user-attachments/assets/732a9f01-1b09-43e1-9e06-c0c2a4f988d2)
-cle Type](https://github.com/user-attachments/assets/09d4d292-29c0-4bc9-a778-e2e52f8d0dca)
-![Cancellation](https://github.com/user-attachments/assets/743c7e1f-f393-4de2-8760-53f5c6ad4c9b)
-![Ratings](https://github.com/user-attachments/assets/461ea44d-ed47-40f4-bdbd-d14d7ce7157d)
+![Revenue](https://github.com/user-attachments/assets/1d0ff230-0607-4739-bbfc-bb43bcedf9e0)
+![Cancellation](https://github.com/user-attachments/assets/3255b90c-e34b-442e-9922-f6d36e20a1fb)
+![Ratings](https://github.com/user-attachments/assets/48b20a71-f0f6-4110-9093-f865bee866e9)
+
 
 
 
