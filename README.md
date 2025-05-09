@@ -42,10 +42,11 @@ oard
 
 # Screenshots of the Dashboard
 ![Overall](https://github.com/user-attachments/assets/6400eb32-c5da-41ad-b20e-49d62e303c69)
-![Vehi![Revenue](https://github.com/user-attachments/assets/732a9f01-1b09-43e1-9e06-c0c2a4f988d2)
+![Vehicle Type](https://github.com/user-attachments/assets/12ad4685-c4db-4aab-9dd0-343e1b6ff8ea)
 ![Revenue](https://github.com/user-attachments/assets/1d0ff230-0607-4739-bbfc-bb43bcedf9e0)
 ![Cancellation](https://github.com/user-attachments/assets/3255b90c-e34b-442e-9922-f6d36e20a1fb)
 ![Ratings](https://github.com/user-attachments/assets/48b20a71-f0f6-4110-9093-f865bee866e9)
+
 
 
 
